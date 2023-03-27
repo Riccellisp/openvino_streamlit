@@ -1,0 +1,4 @@
+streamlit
+opencv-python-headless
+protobuf==3.19.6
+openvino-dev
