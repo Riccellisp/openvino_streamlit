@@ -1,4 +1,6 @@
+pillow
+opencv-python
+numpy==1.19.5
+scipy==1.5.4
 streamlit
-opencv-python-headless
-protobuf==3.19.6
-openvino-dev
+streamlit_webrtc
